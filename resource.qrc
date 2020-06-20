@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Resource/Icon_Calculator_16.png</file>
+        <file>Resource/Icon_Reset_16.png</file>
+        <file>Resource/Icon_Out_16.png</file>
+        <file>Resource/Icon_Gear_16.png</file>
+        <file>Resource/Icon_TrashBin_16.png</file>
+    </qresource>
+</RCC>
